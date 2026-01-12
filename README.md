@@ -1,0 +1,3 @@
+Still a work in progress but want to make a fun and simple texas hold em starting hand percentage calculator type thingy; using HTML CSS JavaScript for now...
+
+![Texas Holdem Screenshot](ss.png)

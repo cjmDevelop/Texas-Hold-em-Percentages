@@ -16,13 +16,13 @@ span {
 }
 
 body {
-  /* background-image:
+  background-image:
     linear-gradient(
       90deg,
-      #2f855a 0%,
+      #1579d0 0%,
       #308764 50%,
       #308a6d 100%
-    ); */
+    );
 
   overflow: hidden;
   
