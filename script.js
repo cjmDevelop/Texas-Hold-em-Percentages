@@ -19,3 +19,7 @@ let firstCardSuit = document.getElementById("first-card-suit")
 let secondCardSuit = document.getElementById("second-card-suit");
 firstCardSuit.textContent = suits[Math.floor(Math.random() * suits.length)];
 secondCardSuit.textContent = suits[Math.floor(Math.random() * suits.length)];
+
+document.getElementById("deal").addEventListener("click", () => {
+  window.location.reload();
+});
