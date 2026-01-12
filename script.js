@@ -5,12 +5,12 @@ cards.forEach((card) => {
 
 let hands = "A 2 3 4 5 6 7 8 9 10 J Q K";
 hands = hands.split(" ")
-// console.log(hands.length)
-// console.log(Math.floor(Math.random() * hands.length) + 1)
-
 
 
 const firstCard = document.getElementById("first-card")
 const secondCard = document.getElementById("second-card")
 
-firstCard.textContent = hands[Math.floor(Math.random() * hands.length) + 1];
+firstCard.textContent = hands[Math.floor(Math.random() * hands.length)];
+secondCard.textContent = hands[Math.floor(Math.random() * hands.length)];
+
+//To do: add number for percentage in UI
