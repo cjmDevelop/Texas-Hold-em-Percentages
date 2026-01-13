@@ -2,7 +2,7 @@
 
 A fun and interactive web app that displays your Texas Hold'em starting hand and calculates your win probability in a heads-up scenario.
 
-![Texas Holdem Screenshot](ss.png)
+![Texas Holdem Screenshot](SS.png)
 
 ## Features
 
